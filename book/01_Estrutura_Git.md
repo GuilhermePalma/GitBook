@@ -152,6 +152,6 @@ Por fim, alguns comandos importantes no Git são:
 
 
 
-[<--- Pagina Anterior **(Repositorio do Curso Git/GitHub)**](README.md)
+[<--- Pagina Anterior **(Introdução)**](00.1_Introducao.md)
 
 [Proxima Pagina **(02 - Protocolos de Autenticação e Segurança no Git/GitHub)** --->](02_Autenticacao_Seguranca.md)

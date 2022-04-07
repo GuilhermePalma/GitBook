@@ -2,6 +2,8 @@
 
 Sequência de Arquivos com Aprendizados do Git
 
+[Clique aqui](book/00.1_Introducao.md) para começar a Ler o **Git Book**
+
 ## Motivação
 
 > Em Desenvolvimento
@@ -12,12 +14,16 @@ Sequência de Arquivos com Aprendizados do Git
 
 ## Conteudo
 
-- [01 - Estrturua e Introdução ao Git e GitHub](book/01_Estrutura_Git.md)
-- [02 - Protocolos de Autenticação e Segurança no Git/GitHub](book/02_Autenticacao_Seguranca.md)
-- [03 - Trabalhando com Branchs](book/03_Branches.md)
-- [04 - Historico (Log) e Reversão de Commits](book/04_Log_Reversão.md)
-- [05 - Estruturando Bons Commits](book/05_Estruturar_Commits.md)
-- [06 - Contribuições em Repositorios](book/06_Contribuicoes.md)
+Clique para acessar os conteudos do Livro **Git Book**: [Introdução ao Repositorio GitBook](book/00.1_Introducao.md)
+
+No momento atual o Livro disponibiliza os seguintes conteudos
+  - Introdução ao Git e Explicação dos Objetos que sao formados (Blob, Tree, Commits)
+  - Autenticação utilizando Token Pessoal ou Chaves SSH
+  - Navegação, Criação, Exclusão de Branches
+  - Armazenamento Local de Altereações (``stash``)
+  - Exibição do Historio de Commits e Customizações
+  - Reversão de Commits
+  - Estruturamento de Commits utilizando boas praticas e do Versionamento Semantico
 
 > Em Desenvolvimento
 

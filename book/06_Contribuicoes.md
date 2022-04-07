@@ -68,4 +68,4 @@
 
 [<--- Pagina Anterior **(05 - Estruturando Bons Commits)**](05_Estruturar_Commits.md)
 
-[Proxima Pagina **(Repositorio do Curso Git/GitHub)** --->](README.md)
+[Proxima Pagina **(Finalização do Livro)** --->](00.2_Finalização.md)
